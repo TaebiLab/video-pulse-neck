@@ -46,6 +46,8 @@ If you use this code in your work, please cite:
   year={2025}
 }
 
+---
+
 ## Acknowledgments
 This work was supported by:
 
