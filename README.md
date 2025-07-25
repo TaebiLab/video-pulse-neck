@@ -6,9 +6,9 @@ This repository contains the implementation code for the paper:
 Presented at [IEEE EMBC 2025]  
 [[Paper Link]](https://doi.org/10.XXXX/XXXXXXXX) *(link will be updated once available)*
 
----
 
-We evaluated six widely-used video-based pulse extraction methods:
+## Overview
+This project introduces a non-contact, video-based approach for estimating heart rate (HR) and heart rate variability (HRV) from short videos of the human neck. We evaluated six widely-used video-based pulse extraction methods:
 
 - **GREEN**
 - **CHROM** (Chrominance-based)
@@ -22,6 +22,7 @@ All extracted signals were validated against **synchronized ECG** recordings. We
 ---
 
 ## Contents
+
 
 
 ## Requirements
