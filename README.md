@@ -37,6 +37,8 @@ Dependencies adapted from:
 
 ## Citation
 If you use this code in your work, please cite:
+
+```bibtex
 @inproceedings{rahman2025contactless,
   title={Contactless Heart Rate and Heart Rate Variability Estimation from Neck Videos},
   author={Rahman, Mohammad Muntasir and Taebi, Amirtahà},
@@ -47,5 +49,6 @@ If you use this code in your work, please cite:
 ## Acknowledgments
 This work was supported by:
 
-- NSF Grant No. 2340020
-- SMART Business Act Grant No. 2024-04 (Mississippi Institutes of Higher Learning)
+- **National Science Foundation (NSF)** — Grant No. 2340020  
+- **SMART Business Act Grant** — Grant No. 2024-04  
+  *(Mississippi Institutions of Higher Learning)*
