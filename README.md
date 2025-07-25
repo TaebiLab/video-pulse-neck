@@ -51,7 +51,3 @@ If you use this code in your work, please cite:
   booktitle={Proceedings of the IEEE EMBC 2025},
   year={2025}
 }
-
-
-
-
