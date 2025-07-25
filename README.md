@@ -19,7 +19,6 @@ This project introduces a non-contact, video-based approach for estimating heart
 
 All extracted signals were validated against **synchronized ECG** recordings. We also developed a robust, adaptive peak detection algorithm for estimating HR and HRV in noisy video-based signals.
 
----
 
 ## Contents
 
