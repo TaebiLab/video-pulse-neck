@@ -34,7 +34,12 @@ Dependencies adapted from:
 - 📦 [iPhys Toolbox](https://github.com/mcdufflab/iPhys)
 - 📦 [rPPG-Toolbox](https://github.com/zhaoxiangyi0727/rPPG-Toolbox)
 
----
+## Acknowledgments
+This work was supported by:
+
+- **National Science Foundation (NSF)** — Grant No. 2340020  
+- **SMART Business Act Grant** — Grant No. 2024-04  
+  *(Mississippi Institutions of Higher Learning)*
 
 ## Citation
 If you use this code in your work, please cite:
@@ -47,11 +52,6 @@ If you use this code in your work, please cite:
   year={2025}
 }
 
----
 
-## Acknowledgments
-This work was supported by:
 
-- **National Science Foundation (NSF)** — Grant No. 2340020  
-- **SMART Business Act Grant** — Grant No. 2024-04  
-  *(Mississippi Institutions of Higher Learning)*
+
