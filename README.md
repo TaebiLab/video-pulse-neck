@@ -3,7 +3,7 @@ This repository contains the implementation code for the paper:
 
 **Contactless Heart Rate and Heart Rate Variability Estimation from Neck Videos**  
 *Mohammad Muntasir Rahman, Amirtahà Taebi*  
-Presented at [IEEE EMBC 2025]  
+Presented at the 2025 IEEE EMBC which was hold in Copenhagen, Denmark
 [[Paper Link]](https://doi.org/10.XXXX/XXXXXXXX) *(link will be updated once available)*
 
 
