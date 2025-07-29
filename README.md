@@ -21,7 +21,8 @@ All extracted signals were validated against **synchronized ECG** recordings. We
 
 
 ## Contents
-
+- Run `rPPG_signal_extraction.py` to extract the video-based pulse signal from the neck region.
+- Use `rPPG_signal_visualization.m` to preprocess the signal, HR and HRV, and visualize the results.
 
 
 ## Requirements
